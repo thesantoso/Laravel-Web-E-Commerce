@@ -1,0 +1,34 @@
+REVISIII GANNNN, mangatttsssss
+
+perubahan title
+P:\Laravel\SAN KOMPUTER\resources\views\frontend\pages\product-grids.blade.php
+solved
+
+penambahan form slug >brand
+P:\Laravel\SAN KOMPUTER\resources\views\backend\brand\edit.blade.php 
+solved
+
+number format product>index
+P:\Laravel\SAN KOMPUTER\resources\views\backend\product\index.blade.php
+solved
+
+number format shipping>index
+P:\Laravel\SAN KOMPUTER\resources\views\backend\shipping\index.blade.php
+solved
+
+
+poster kategori on index fontend
+P:\Laravel\SAN KOMPUTER\resources\views\frontend\index.blade.php
+solved
+
+format number whistlist
+P:\Laravel\SAN KOMPUTER\resources\views\frontend\pages\wishlist.blade.php
+solved
+
+format number cart
+P:\Laravel\SAN KOMPUTER\resources\views\frontend\pages\cart.blade.php
+solved
+
+format number on header fontend (wishlist and cart)
+P:\Laravel\SAN KOMPUTER\resources\views\frontend\layouts\header.blade.php
+solved
